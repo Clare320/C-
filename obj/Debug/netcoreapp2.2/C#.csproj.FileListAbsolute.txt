@@ -1,0 +1,11 @@
+/Users/kede/Desktop/Github/C#/obj/Debug/netcoreapp2.2/C#.csprojAssemblyReference.cache
+/Users/kede/Desktop/Github/C#/obj/Debug/netcoreapp2.2/C#.csproj.CoreCompileInputs.cache
+/Users/kede/Desktop/Github/C#/obj/Debug/netcoreapp2.2/C#.AssemblyInfoInputs.cache
+/Users/kede/Desktop/Github/C#/obj/Debug/netcoreapp2.2/C#.AssemblyInfo.cs
+/Users/kede/Desktop/Github/C#/bin/Debug/netcoreapp2.2/C#.deps.json
+/Users/kede/Desktop/Github/C#/bin/Debug/netcoreapp2.2/C#.runtimeconfig.json
+/Users/kede/Desktop/Github/C#/bin/Debug/netcoreapp2.2/C#.runtimeconfig.dev.json
+/Users/kede/Desktop/Github/C#/bin/Debug/netcoreapp2.2/C#.dll
+/Users/kede/Desktop/Github/C#/bin/Debug/netcoreapp2.2/C#.pdb
+/Users/kede/Desktop/Github/C#/obj/Debug/netcoreapp2.2/C#.dll
+/Users/kede/Desktop/Github/C#/obj/Debug/netcoreapp2.2/C#.pdb
