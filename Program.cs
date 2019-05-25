@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace C_
+namespace CSharpRoad
 {
     class Program
     {
@@ -30,6 +30,18 @@ namespace C_
                 Console.WriteLine($"Hello {name.ToUpper()}");
             }
             Console.WriteLine($"One is {names[0]}, total is {names.Count}");
+            var index = names.IndexOf("Felipe");
+            if (index != -1)
+                Console.WriteLine($"The name {names[index]} is as index {index}");
+            
+            var notFound = names.IndexOf("Not Found");
+            Console.WriteLine($"When an item is not found, IndexOf returns {notFound}");
+
+            //goto用法
+            TestStatements testStatements = new TestStatements();
+            // testStatements.learnGotoUsage();
+            testStatements.learnYeildUsage();
+
         }
     }
 }

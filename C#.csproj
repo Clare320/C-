@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.2</TargetFramework>
-    <RootNamespace>C_</RootNamespace>
+    <RootNamespace>CSharpRoad</RootNamespace>
   </PropertyGroup>
 
 </Project>
